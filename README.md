@@ -1,3 +1,5 @@
+![Treza Labs banner](https://www.trezalabs.com/images/hero-meta.png)
+
 # Treza Labs
 
 **Privacy infrastructure for crypto and finance.**
@@ -32,7 +34,7 @@ Our infrastructure uses secure enclaves to protect sensitive data while proving 
 - [Website](https://trezalabs.com)  
 - [Documentation](https://docs.trezalabs.com)  
 - [Twitter](https://twitter.com/trezalabs)  
-- [Telegram](https://t.me/trezalabs)
+- [Telegram](https://t.me/trezalabs)  
 
 ---
 
@@ -40,4 +42,3 @@ Our infrastructure uses secure enclaves to protect sensitive data while proving 
 
 Treza Labs is building the foundation for privacy-preserving computation — making trust and verification possible without sacrificing confidentiality.  
 We’re developing the infrastructure layer that keeps crypto and financial systems secure by design.
-
