@@ -2,7 +2,7 @@
 
 # Treza Labs
 
-Treza Labs builds systems that enable computation to remain private, verifiable, and secure. Our infrastructure uses secure enclaves to protect sensitive data while proving the integrity of code execution. With Treza, you can deploy your applications in hardware-protected enclaves with cryptographic privacy guarantees. Run containers, APIs and AI workloads with simple, privacy-focused developer tools. We're building the foundation for privacy-preserving computation, making trust and verification possible without sacrificing confidentiality. We’re developing the infrastructure layer that keeps crypto and financial systems secure by design.
+Treza Labs builds systems that enable computation to remain private, verifiable, and secure. Our infrastructure uses secure enclaves to protect sensitive data while proving the integrity of code execution. With Treza, you can deploy your applications in hardware-protected enclaves with cryptographic privacy guarantees. Run containers, APIs and AI workloads with simple, privacy-focused developer tools.
 
 
 > Privacy only works if we do.
