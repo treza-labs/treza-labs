@@ -1,16 +1,18 @@
-## Hi there 👋
+# Treza Labs
 
-<!--
-**treza-labs/treza-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Encryption-in-use for crypto, AI, and finance.**
 
-Here are some ideas to get you started:
+We’re building privacy infrastructure that lets companies run sensitive computation inside secure enclaves — verifiable, auditable, and private by design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧱 Projects
+- [Treza SDK](https://github.com/treza-labs/treza-sdk)
+- [Treza Terraform](https://github.com/treza-labs/treza-terraform)
+- [Treza Docs](https://docs.trezalabs.com)
+
+## 🌐 Links
+- [Website](https://trezalabs.com)
+- [Docs](https://docs.trezalabs.com)
+- [Twitter](https://twitter.com/trezalabs)
+- [Telegram](https://t.me/trezalabs)
+
+> Privacy only works if we do.
