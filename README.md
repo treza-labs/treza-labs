@@ -4,8 +4,7 @@
 
 **Privacy infrastructure for crypto and finance.**
 
-Treza Labs builds systems that enable computation to remain private, verifiable, and secure.  
-Our infrastructure uses secure enclaves to protect sensitive data while proving the integrity of code execution — a foundation for trusted AI and financial systems.
+Treza Labs builds systems that enable computation to remain private, verifiable, and secure. Our infrastructure uses secure enclaves to protect sensitive data while proving the integrity of code execution — a foundation for trusted AI and financial systems.
 
 > Privacy only works if we do.
 
