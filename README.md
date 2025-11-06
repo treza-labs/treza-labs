@@ -40,5 +40,4 @@ Our infrastructure uses secure enclaves to protect sensitive data while proving 
 
 ### About Treza
 
-Treza Labs is building the foundation for privacy-preserving computation — making trust and verification possible without sacrificing confidentiality.  
-We’re developing the infrastructure layer that keeps crypto and financial systems secure by design.
+Treza Labs is building the foundation for privacy-preserving computation — making trust and verification possible without sacrificing confidentiality. We’re developing the infrastructure layer that keeps crypto and financial systems secure by design.
