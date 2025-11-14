@@ -20,11 +20,11 @@ Treza Labs builds systems that enable computation to remain private, verifiable,
 
 ## Use Cases
 
-- Secure AI agents and private inference  
 - Key management and signing  
-- Cryptographic compliance (HIPAA, MiCA, GDPR)  
+- Cryptographic compliance (KYC, AML, HIPAA, MiCA, GDPR)  
 - Encrypted financial and trading models  
-- Verifiable compute for blockchain infrastructure  
+- Verifiable compute for blockchain infrastructure
+- Secure AI agents and private inference  
 
 ---
 
