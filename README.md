@@ -6,7 +6,7 @@ Treza Labs builds systems that enable computation to remain private, verifiable,
 
 ---
 
-## Projects
+## Platform
 
 - **[Treza Contracts](https://github.com/treza-labs/treza-contracts)** – Smart contract infrastructure for zero-knowledge compliance and privacy-preserving identity verification.
 - **[Treza SDK](https://github.com/treza-labs/treza-sdk)** – Developer toolkit for enclave-powered compute and attestation APIs.  
