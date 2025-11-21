@@ -9,7 +9,7 @@ Treza Labs builds systems that enable computation to remain private, verifiable,
 ## Platform
 
 - **[Treza Contracts](https://github.com/treza-labs/treza-contracts)** – Smart contract infrastructure for zero-knowledge privacy-preserving KYC.
-- **[Treza SDK](https://github.com/treza-labs/treza-sdk)** – Developer toolkit for enclave-powered compute and attestation APIs.  
+- **[Treza SDK](https://github.com/treza-labs/treza-sdk)** – Developer toolkit for ZK-KYC, enclave-powered compute and attestation APIs.  
 - **[Treza Terraform](https://github.com/treza-labs/treza-terraform)** – Automated enclave provisioning across AWS, GCP, and on-prem.
 - **[Treza Docs](https://docs.trezalabs.com)** – Technical documentation and developer guides for building with Treza.  
 
