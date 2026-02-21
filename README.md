@@ -11,6 +11,9 @@ Treza Labs builds systems that enable computation to remain private, verifiable,
 - **[Treza Contracts](https://github.com/treza-labs/treza-contracts)** – Smart contract infrastructure for zero-knowledge privacy-preserving KYC.
 - **[Treza SDK](https://github.com/treza-labs/treza-sdk)** – Developer toolkit for ZK-KYC, enclave-powered compute and attestation APIs.
 - **[Treza CLI](https://github.com/treza-labs/treza-cli)** – Command-line interface for managing enclaves, KYC proofs, and platform resources.
+- **[Treza React](https://github.com/treza-labs/treza-sdk/tree/main/packages/react)** – React components and hooks for integrating Treza compliance and enclave features into web apps.
+- **[Treza MCP Server](https://github.com/treza-labs/treza-sdk/tree/main/packages/mcp)** – Model Context Protocol server enabling AI agents to discover and use Treza enclaves.
+- **[Treza REST API](https://app.trezalabs.com/.well-known/openapi.json)** – OpenAPI spec for the Treza Platform API, compatible with OpenAI, Gemini, LangChain, and other agent frameworks.
 - **[Treza Terraform](https://github.com/treza-labs/treza-terraform)** – Automated enclave provisioning across AWS, GCP, and on-prem.
 - **[Treza Docs](https://docs.trezalabs.com)** – Technical documentation and developer guides for building with Treza.  
 
