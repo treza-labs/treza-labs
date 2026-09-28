@@ -14,12 +14,12 @@ Every pipeline becomes a versioned HTTP endpoint you can call from your product,
 
 ## Why teams use Treza
 
-- **Every modality on one canvas.** Video with Veo 3.1 and Sora 2, images with Gemini image models, and text with open models like Llama, DeepSeek, and Qwen, plus transcription and embeddings. Pick a model per node and change it any time.
+- **Every modality on one canvas.** Video with Veo 3.1, Seedance 2.5, Kling, and Wan, images with Gemini image models, and text with open models like Llama, DeepSeek, and Qwen, plus transcription and embeddings. Pick a model per node and change it any time.
 - **No lock-in.** Models run through an OpenAI-compatible backend across providers like Together, OpenRouter, Fireworks, and DeepSeek. Not listed? Type any Hugging Face or OpenRouter model id straight into the node. Bring your own provider keys, stored encrypted.
 - **One API, two ways to call it.** Every published pipeline gets a versioned endpoint. Use the typed `/invoke` API for JSON in and JSON out, or point any OpenAI SDK at the `/chat/completions` endpoint, streaming included.
 - **Guardrails when you want them.** Drop redaction, PII, and conditional-routing nodes into any pipeline so sensitive data is handled before it reaches a model or an external system.
 - **Team and Enterprise plans available.**
-- **Production-ready.** Automatic retries and fallback models, a KMS-encrypted secrets manager, and hardware-attested Treza Enclaves on Enterprise, with provable evidence that the right code handled your data.
+- **Production-ready.** Automatic retries and fallback models, a KMS-encrypted secrets manager, and every run logged step by step with its timing and cost.
 
 ---
 
