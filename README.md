@@ -46,4 +46,3 @@ Every pipeline becomes a versioned HTTP endpoint you can call from your product,
 - [Platform](https://trezalabs.com/platform)
 - [Documentation](https://docs.trezalabs.com)
 - [Twitter](https://twitter.com/trezalabs)
-- [Telegram](https://t.me/trezalabs)
