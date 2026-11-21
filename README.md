@@ -2,6 +2,10 @@
 
 Treza is the node editor for generative media. Chain the best video, image, and language models into a pipeline on a visual canvas, run it from a prompt, then publish it behind one API.
 
+![Four short clips made with Treza: a red hover car racing through a neon city, an astronaut walking over a Martian dune at sunset, an orchid mantis on a leaf, and espresso pouring into a cup](https://raw.githubusercontent.com/treza-labs/treza-labs/main/assets/treza-demo.gif)
+
+These clips were made with [Treza](https://www.trezalabs.com), and the [integrations page](https://www.trezalabs.com/integrations) lists every way to connect to it.
+
 ---
 
 ## What is Treza?
