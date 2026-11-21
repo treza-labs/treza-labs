@@ -42,6 +42,14 @@ Every pipeline becomes a versioned HTTP endpoint you can call from your product,
 - [**MCP Server**](https://docs.trezalabs.com/api/mcp-server) - connect Claude and other AI agents to your pipelines over the Model Context Protocol.
 - [**AI Gateway**](https://docs.trezalabs.com/ai-gateway) - the redaction gateway that also powers the PII guardrail node.
 
+### Open source
+
+- [**treza-examples**](https://github.com/treza-labs/treza-examples) - runnable recipes for curl, Python, TypeScript, LangChain (with a Colab notebook), n8n, ComfyUI and x402.
+- [**render-video**](https://github.com/treza-labs/render-video) - a GitHub Action that renders a video or image, or runs a pipeline, from a workflow step, with a price cap.
+- [**ai-video-models**](https://github.com/treza-labs/ai-video-models) - the video and image models on Treza with their specs and price per clip, as tables and JSON, refreshed daily.
+- [**ffmpeg-kenburns**](https://github.com/treza-labs/ffmpeg-kenburns) - smooth push-ins and pans on stills with FFmpeg, without zoompan's stair-step jitter.
+- Integrations: [n8n](https://github.com/treza-labs/n8n-nodes-treza), [Zapier](https://github.com/treza-labs/treza-zapier), [Dify](https://github.com/treza-labs/treza-dify-plugin), [ComfyUI](https://github.com/treza-labs/treza-comfyui), [LangChain](https://github.com/treza-labs/langchain-treza), [Langflow](https://github.com/treza-labs/lfx-treza), [CrewAI](https://github.com/treza-labs/crewai-treza), [LlamaIndex](https://github.com/treza-labs/llama-index-tools-treza), [Vercel AI SDK](https://github.com/treza-labs/treza-ai-sdk), [MCP plugin](https://github.com/treza-labs/treza-plugin), [x402](https://github.com/treza-labs/x402-video-example).
+
 ---
 
 ## Links
