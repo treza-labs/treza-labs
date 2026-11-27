@@ -40,7 +40,7 @@ Every pipeline becomes a versioned HTTP endpoint you can call from your product,
 
 - [**Pipeline API**](https://docs.trezalabs.com/api/pipeline-api) - the typed `/invoke` and OpenAI-compatible `/chat/completions` endpoints on every published pipeline.
 - [**MCP Server**](https://docs.trezalabs.com/api/mcp-server) - connect Claude and other AI agents to your pipelines over the Model Context Protocol.
-- [**AI Gateway**](https://docs.trezalabs.com/ai-gateway) - the redaction gateway that also powers the PII guardrail node.
+- [**AI Gateway**](https://www.trezalabs.com/ai-gateway) - the redaction gateway that also powers the PII guardrail node.
 
 ### Open source
 
